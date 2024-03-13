@@ -22,9 +22,5 @@ def to_do_list():
         elif(user_input == 3):
             print("Your Remaining Tasks are ",data)
     print("GoodBye! Have a Nice Day!")
-        
 
-
-
-
-
+to_do_list()
